@@ -1,7 +1,7 @@
 # .gitignore
 
 # Ignore public folder (remove this line if you need to keep some files in public)
-
+/public/
 
 # If you only want to ignore images in public, use:
 # /public/images/
